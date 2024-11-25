@@ -30,9 +30,3 @@ Additionally, an **interactive graphical interface** will allow users to visuali
 - Install Docker and Kubernetes on your system.
 - Install Prometheus and Grafana for monitoring and visualization.
 - Ensure Python (version 3.8 or higher) is installed.
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
